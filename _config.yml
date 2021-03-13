@@ -1,7 +1,7 @@
 # Site settings
 title:          java_zone
 description:    ""
-baseurl:        "/thaohna"
+baseurl:        ""
 url:            "https://thaohna.github.io"
 
 # Google Analytics
