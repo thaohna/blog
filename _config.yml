@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          java_zone
+description:    ""
+baseurl:        "/javazone"
+url:            "https://javazone.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Huỳnh Ngô Anh Thảo
+  url:          https://javazone.tech
+  email:        huynhngoanhthao@gmail.com
 
 # Build settings
 markdown:       kramdown
