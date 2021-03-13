@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Giới thiệu
-permalink: /gioi-thieu/
+permalink: /gioi-thieu
 published: true
 ---
