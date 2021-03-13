@@ -1,10 +1,11 @@
 ---
 layout: default
+published: true
 ---
 
 <div class="post">
   <div class="post-info">
-    <span>Written by</span>
+    <span>Soạn bởi</span>
     {% if page.author %}
         {{ page.author }}
     {% else %}
@@ -13,7 +14,8 @@ layout: default
 
     {% if page.date %}
       <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <span>vào ngày&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date:
+    "%m/%d/%Y" }}</time>
     {% endif %}
   </div>
 
