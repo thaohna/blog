@@ -2,7 +2,7 @@
 layout: post
 title: Static Factory Methods
 description: Cân nhắc sử dụng static factory methods thay vì constructors, bản dịch Effective Java tiếng Việt
-tags: Java, Effective Java, EJCH2-Creating and Destroying Objects
+tags: java effective-java static-factory-method
 permalink: /static-factory-method/
 ---
 
