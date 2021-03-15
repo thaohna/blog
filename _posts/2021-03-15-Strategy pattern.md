@@ -249,5 +249,5 @@ public class MiniDuckSimulator {
 	}
 }
 ```
-*Từ cuốn [Head First Design Pattern tái bản](https://www.oreilly.com/library/view/head-first-design/9781492077992/)*
+*Từ cuốn [Head First Design Pattern].(https://www.oreilly.com/library/view/head-first-design/9781492077992/)*
 
