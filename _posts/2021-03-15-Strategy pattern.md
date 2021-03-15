@@ -16,56 +16,56 @@ permalink: /head-first-strategy-pattern/
 ## Nhưng giờ ta cần vịt BAY được
 ------
 
-
+<br/>
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0003-01.png" alt="Images"  />
 
-
+<br/><br/>
 ## Có điều khủng khiếp đã xảy ra
 ------
 
-
+<br/>
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0004-01.png" alt="Images"  />
 
-
+<br/><br/>
 ## Vì không phải vịt nào cũng bay được
 ------
 
-
+<br/>
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0004-03.png" alt="Images"  />
 
-
+<br/><br/>
 ## Có nên thừa kế chăng?
 ------
 
-
+<br/>
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0005-01.png" alt="Images"  />
 
-
+<br/><br/>
 ## Dùng Interface thì sao?
 ------
 
-
+<br/>
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0006-01.png" alt="Images"  />
 
-
+<br/><br/>
 ## Như thế sẽ rất khó bảo trì
 ------
 
-
+<br/>
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0007-01.png" alt="Images"  />
 
-
+<br/><br/>
 ## Đã đến lúc dùng tới Strategy pattern
 ------
 
-
+<br/>
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0022-01.png" alt="img"  />
 
-
+<br/><br/>
 ## Cài đặt
 ------
 
-
+<br/>
 `Duck`
 
 ```java
@@ -250,11 +250,11 @@ public class ModelDuck extends Duck {
 }
 ```
 
-
+<br/><br/>
 ## Khởi chạy
 ------
 
-
+<br/>
 ```java
 public class MiniDuckSimulator {
  
@@ -278,8 +278,8 @@ public class MiniDuckSimulator {
 ```
 
 
-
+<br/><br/>
 *Từ cuốn [Head First Design Pattern](https://www.oreilly.com/library/view/head-first-design/9781492077992/)*.
 
-
+<br/><br/>
 
