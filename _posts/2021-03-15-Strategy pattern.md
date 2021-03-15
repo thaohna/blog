@@ -99,7 +99,7 @@ public abstract class Duck {
 	}
 }
 ```
-
+<br/>
 `FlyBehavior`
 
 ```java
@@ -107,7 +107,7 @@ public interface FlyBehavior {
 	public void fly();
 }
 ```
-
+<br/>
 `QuackBehavior`
 
 ```java
@@ -115,7 +115,7 @@ public interface QuackBehavior {
 	public void quack();
 }
 ```
-
+<br/>
 `FlyWithWings`
 
 ```java
@@ -125,7 +125,7 @@ public class FlyWithWings implements FlyBehavior {
 	}
 }
 ```
-
+<br/>
 `FlyNoWay`
 
 ```java
@@ -135,7 +135,7 @@ public class FlyNoWay implements FlyBehavior {
 	}
 }
 ```
-
+<br/>
 `FlyRocketPowered`
 
 ```java
@@ -145,7 +145,7 @@ public class FlyRocketPowered implements FlyBehavior {
 	}
 }
 ```
-
+<br/>
 `FakeQuack`
 
 ```java
@@ -155,7 +155,7 @@ public class FakeQuack implements QuackBehavior {
 	}
 }
 ```
-
+<br/>
 `MuteQuack`
 
 ```java
@@ -165,7 +165,7 @@ public class MuteQuack implements QuackBehavior {
 	}
 }
 ```
-
+<br/>
 `Quack`
 
 ```java
@@ -175,7 +175,7 @@ public class Quack implements QuackBehavior {
 	}
 }
 ```
-
+<br/>
 `Squeak`
 
 ```java
@@ -185,7 +185,7 @@ public class Squeak implements QuackBehavior {
 	}
 }
 ```
-
+<br/>
 `MallardDuck`
 
 ```java
@@ -201,7 +201,7 @@ public class MallardDuck extends Duck {
 	}
 }
 ```
-
+<br/>
 `RedHeadDuck`
 
 ```java
@@ -217,7 +217,7 @@ public class RedHeadDuck extends Duck {
 	}
 }
 ```
-
+<br/>
 `RubberDuck`
 
 ```java
@@ -233,7 +233,7 @@ public class RubberDuck extends Duck {
 	}
 }
 ```
-
+<br/>
 `ModelDuck`
 
 ```java
