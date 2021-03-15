@@ -6,7 +6,7 @@ tags: java effective-java static-factory-method
 permalink: /static-factory-method/
 ---
 
-### Cân nhắc sử dụng **static factory methods** thay vì constructors
+## Cân nhắc sử dụng **static factory methods** thay vì constructors
 
 Thông thường, lớp dùng một `public contructor` để cho phép ta lấy ra `instance` (thực thể) của nó. Một lớp cũng có thể cung cấp cho ta một `static factory method` để trả về `instance` của lớp đó:
 
