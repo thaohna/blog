@@ -11,9 +11,9 @@ permalink: /head-first-strategy-pattern/
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0002-01.png" alt="img"  />
 
-<br>
+<br/>
 ## Nhưng giờ ta cần vịt BAY được
-<br>
+<br/>
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0003-01.png" alt="Images"  />
 
