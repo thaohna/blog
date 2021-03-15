@@ -1,3 +1,11 @@
+---
+layout: post
+title: Strategy pattern
+description: Mẫu thiết kế Strategy pattern
+tags: java design-pattern
+permalink: /head-first-strategy-pattern/
+---
+
 ## Strategy pattern
 
 Vấn đề: Tạo một ứng dụng mô phỏng vịt
@@ -241,4 +249,5 @@ public class MiniDuckSimulator {
 	}
 }
 ```
+*Từ cuốn [Head First Design Pattern tái bản](https://www.oreilly.com/library/view/head-first-design/9781492077992/)*
 
