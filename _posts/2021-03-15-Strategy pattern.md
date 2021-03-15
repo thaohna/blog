@@ -6,41 +6,56 @@ tags: java design-pattern
 permalink: /head-first-strategy-pattern/
 ---
 
-## Strategy pattern
+## Làm sạo để tạo một ứng dụng mô phỏng vịt?
 
-### Làm sạo để tạo một ứng dụng mô phỏng vịt?
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0002-01.png" alt="img"  />
 
-### Nhưng giờ ta cần vịt BAY được
+
+## Nhưng giờ ta cần vịt BAY được
+
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0003-01.png" alt="Images"  />
 
-### Nhưng có điều khủng khiếp đã xảy ra
+
+## Có điều khủng khiếp đã xảy ra
+
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0004-01.png" alt="Images"  />
 
-### Vì không phải vịt nào cũng bay được
+
+## Vì không phải vịt nào cũng bay được
+
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0004-03.png" alt="Images"  />
 
-### Có nên thừa kế chăng?
+
+## Có nên thừa kế chăng?
+
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0005-01.png" alt="Images"  />
 
-### Dùng Interface thì sao?
+
+## Dùng Interface thì sao?
+
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0006-01.png" alt="Images"  />
 
-### Như thế sẽ rất khó bảo trì
+
+## Như thế sẽ rất khó bảo trì
+
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0007-01.png" alt="Images"  />
 
-### Đã đến lúc dùng tới Strategy pattern
+
+## Đã đến lúc dùng tới Strategy pattern
+
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0022-01.png" alt="img"  />
 
-### Cài đặt
+
+## Cài đặt
+
 
 `Duck`
 
@@ -226,7 +241,9 @@ public class ModelDuck extends Duck {
 }
 ```
 
-### Khởi chạy
+
+## Khởi chạy
+
 
 ```java
 public class MiniDuckSimulator {
@@ -250,4 +267,9 @@ public class MiniDuckSimulator {
 }
 ```
 
+
+
 *Từ cuốn [Head First Design Pattern](https://www.oreilly.com/library/view/head-first-design/9781492077992/)*.
+
+
+
