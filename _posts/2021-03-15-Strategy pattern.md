@@ -6,7 +6,7 @@ tags: java design-pattern
 permalink: /head-first-strategy-pattern/
 ---
 
-## Làm sạo để tạo một ứng dụng mô phỏng vịt?
+## Làm sao để tạo một ứng dụng mô phỏng vịt?
 
 
 <img src="https://learning.oreilly.com/library/view/head-first-design/9781492077992/assets/f0002-01.png" alt="img"  />
