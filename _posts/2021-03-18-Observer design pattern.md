@@ -47,7 +47,7 @@ public interface Observer {
 ```java
 public class TrungTamKhiTuong implements Subject {
     
-	private float nhietDo;
+    private float nhietDo;
     private float doAm;
     
     private List<Observer> observers = new ArrayList<Observer>();
@@ -85,7 +85,7 @@ public class TrungTamKhiTuong implements Subject {
 ```java
 package trungtamkhituong;
 
-public class Vov implements Observer{
+public class Vov implements Observer {
 
     private float nhietDo;
     private float doAm;
