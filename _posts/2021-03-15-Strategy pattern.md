@@ -3,7 +3,7 @@ layout: post
 title: Strategy pattern
 description: Mẫu thiết kế Strategy pattern
 tags: java design-pattern
-permalink: /head-first-strategy-pattern/
+permalink: /strategy-pattern/
 ---
 
 ## Làm sao để tạo một ứng dụng mô phỏng vịt?
