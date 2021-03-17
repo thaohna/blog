@@ -83,8 +83,6 @@ public class TrungTamKhiTuong implements Subject {
 `Vov.java`
 
 ```java
-package trungtamkhituong;
-
 public class Vov implements Observer {
 
     private float nhietDo;
