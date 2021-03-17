@@ -118,6 +118,7 @@ public class Vov implements Observer {
 ## Khởi chạy
 
 <hr>
+<br/>
 
 ```java
 public class KhoiChay {
