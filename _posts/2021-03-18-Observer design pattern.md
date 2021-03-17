@@ -127,8 +127,8 @@ public class KhoiChay {
         TrungTamKhiTuong trungTamKhiTuong = new TrungTamKhiTuong();
         Vov vov = new Vov(trungTamKhiTuong);
         
-        trungTamKhiTuong.setThongSo(32.3f, 46f);
-        trungTamKhiTuong.setThongSo(16.5f, 72f);
+        trungTamKhiTuong.setThongSo(32.3f, 46.0f);
+        trungTamKhiTuong.setThongSo(16.5f, 72.0f);
     }
 }
 ```
