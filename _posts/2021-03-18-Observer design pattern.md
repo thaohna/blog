@@ -6,19 +6,19 @@ tags: java design-pattern
 permalink: /observer-pattern
 ---
 
-## Observer design pattern
+<br/><br/>
 
 > 'Mẫu thiết kế Người theo dõi' xác định rõ sự phụ thuộc một-nhiều giữa các đối tượng, vậy nên khi một đối tượng thay đổi trạng thái thì tất cả các đối tượng phụ thuộc nó đều nhận biết được và cập nhật tự động. - GOF
 
 Mẫu thiết kế này xoay quanh hai khái niệm là `subject` (chủ thể) và `observer` (người theo dõi). Trong mối quan hệ một-nhiều, `subject` đóng vai trò 'một', còn `observer` đóng vai trò 'nhiều'. Trong ví dụ dưới đây 'Trung tâm khí tượng'  sẽ là `subject` trong khi 'Đài VOV'  sẽ là `observer`.
 
-<br/>
+<br/><br/>
 
-### Ví dụ bằng java
+## Ví dụ bằng java
 
 <hr>
 
-<br/>
+<br/><br/>
 
 `Subject.java`
 
@@ -112,9 +112,9 @@ public class Vov implements Observer{
 
 ```
 
-<br/>
+<br/><br/>
 
-### Khởi chạy
+## Khởi chạy
 
 <hr>
 
@@ -132,11 +132,12 @@ public class KhoiChay {
 }
 ```
 
-<br/>
+<br/><br/>
 
 ### Kết quả
 
 <hr>
+<br/>
 
 ```
 Nhiệt độ hôm nay là 32.3 độ C, độ ẩm 46.0%
