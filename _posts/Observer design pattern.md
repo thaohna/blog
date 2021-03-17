@@ -1,3 +1,11 @@
+---
+layout: post
+title: Observer pattern
+description: Mẫu thiết kế Observer pattern
+tags: java design-pattern
+permalink: /observer-pattern
+---
+
 ## Observer design pattern
 
 > 'Mẫu thiết kế Người theo dõi' xác định rõ sự phụ thuộc một-nhiều giữa các đối tượng, vậy nên khi một đối tượng thay đổi trạng thái thì tất cả các đối tượng phụ thuộc nó đều nhận biết được và cập nhật tự động. - GOF
