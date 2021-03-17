@@ -106,7 +106,8 @@ public class Vov implements Observer {
 
     public void banTinDuBaoThoiTiet() {
         System.out.println("Nhiệt độ hôm nay là " +
-                this.nhietDo + " độ C, độ ẩm " + this.doAm + "%" );
+                   this.nhietDo + " độ C, độ ẩm " + 
+                   this.doAm + "%" );
     }
 }
 
