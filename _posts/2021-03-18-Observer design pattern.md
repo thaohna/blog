@@ -10,7 +10,7 @@ permalink: /observer-pattern/
 
 <br/><br/>
 
-Mẫu thiết kế này xoay quanh hai khái niệm là `subject` (chủ thể) và `observer` (người theo dõi). Trong ví dụ mô phỏng việc đài phát thanh Vov lấy dữ liệu từ trung tâm khí tượng dưới đây, `subject - TrungTamKhiTuong.java` đóng vai trò 'một', còn `observer - Vov.java` đóng vai trò 'nhiều'.
+Mẫu thiết kế này xoay quanh hai khái niệm là `subject` (chủ thể) và `observer` (người theo dõi). Trong ví dụ mô phỏng quy trình làm việc giữa trung tâm khí tượng và đài phát thanh dưới đây, `subject - TrungTamKhiTuong.java` sẽ đóng vai trò 'một', còn `observer - Vov.java` đóng vai trò 'nhiều'.
 
 <br/><br/>
 
