@@ -3,7 +3,7 @@ layout: post
 title: Observer pattern
 description: Mẫu thiết kế Observer pattern
 tags: java design-pattern
-permalink: /observer-pattern
+permalink: /observer-pattern/
 ---
 
 <br/><br/>
