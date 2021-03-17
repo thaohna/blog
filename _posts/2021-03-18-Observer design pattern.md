@@ -8,9 +8,9 @@ permalink: /observer-pattern/
 
 > 'Mẫu thiết kế Người theo dõi' xác định rõ sự phụ thuộc một-nhiều giữa các đối tượng, vậy nên khi một đối tượng thay đổi trạng thái thì tất cả các đối tượng phụ thuộc nó đều nhận biết được và cập nhật tự động. - GOF
 
-<br/><br/>
+<br/>
 
-Mẫu thiết kế này xoay quanh hai khái niệm là `subject` (chủ thể) và `observer` (người theo dõi). Trong ví dụ mô phỏng quy trình làm việc giữa trung tâm khí tượng và đài phát thanh dưới đây, `subject - TrungTamKhiTuong.java` sẽ đóng vai trò 'một', còn `observer - Vov.java` đóng vai trò 'nhiều'.
+Mẫu thiết kế này xoay quanh hai khái niệm `subject` (chủ thể) và `observer` (người theo dõi). Trong ví dụ mô phỏng quy trình làm việc giữa trung tâm khí tượng và đài phát thanh dưới đây, `subject - TrungTamKhiTuong.java` sẽ đóng vai trò 'một', còn `observer - Vov.java` đóng vai trò 'nhiều'.
 
 <br/><br/>
 
