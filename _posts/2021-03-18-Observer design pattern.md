@@ -135,7 +135,7 @@ public class KhoiChay {
 
 <br/><br/>
 
-### Kết quả
+## Kết quả
 
 <hr>
 <br/>
