@@ -6,7 +6,7 @@ tags: java design-pattern
 permalink: /observer-pattern/
 ---
 
-> 'Mẫu thiết kế Người theo dõi' xác định rõ sự phụ thuộc một-nhiều giữa các đối tượng, vậy nên khi một đối tượng thay đổi trạng thái thì tất cả các đối tượng phụ thuộc nó đều biết được và cập nhật tự động. - GOF
+> 'Mẫu theo-dõi' xác định rõ sự phụ thuộc một-nhiều giữa các đối tượng, vậy nên khi một đối tượng thay đổi trạng thái thì tất cả các đối tượng phụ thuộc nó đều biết được và cập nhật tự động. - GOF
 
 <br/>
 
