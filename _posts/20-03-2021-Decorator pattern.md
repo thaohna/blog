@@ -70,7 +70,7 @@ public class PizzaThuong extends Pizza{
 
 <br/>
 
-`PhoMai.java`, `SotCaChua.java`, `SotPhoMai.java`, `RauCu.java` đại diện cho `ConcreteDecorator`
+`PhoMai.java`, `SotCaChua.java`, `RauCu.java` đại diện cho `ConcreteDecorator`
 
 ```java
 public class PhoMai extends PizzaDecorator{
