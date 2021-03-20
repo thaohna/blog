@@ -18,6 +18,7 @@ Mẫu trang trí giúp ta mở rộng chức năng của một đối tượng m
 
 ```java
 public abstract class Pizza {
+
      public abstract double gia();
      public abstract String moTa();
 }
@@ -54,6 +55,7 @@ public class PizzaDecorator extends Pizza{
 
 ```java
 public class PizzaThuong extends Pizza{
+
     @Override
     public double gia() {
         return 5;
