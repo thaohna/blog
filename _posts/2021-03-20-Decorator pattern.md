@@ -1,3 +1,11 @@
+---
+layout: post
+title: Decorator pattern
+description: Mẫu thiết kế Decorator pattern
+tags: java design-pattern
+permalink: /decorator-pattern/
+---
+
 Mẫu trang trí giúp ta mở rộng chức năng của một đối tượng một cách linh hoạt hơn khi so với việc tạo ra các phân lớp (subclassing).
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Decorator_UML_class_diagram.svg/800px-Decorator_UML_class_diagram.svg.png)
