@@ -2,7 +2,7 @@ Mẫu trang trí giúp ta mở rộng chức năng của một đối tượng m
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Decorator_UML_class_diagram.svg/800px-Decorator_UML_class_diagram.svg.png)
 
-`Decorator` dùng một đối tượng (aggregation) của `Component`, đồng thời cũng thừa kế/thực thi `Component`. Lớp `ConcreteComponent` dùng để tạo ra đối tượng gốc, tức đối tượng cần được trang trí. Các đối tượng bọc/trang trí bên ngoài `ConcreteComponent` được tạo ra bằng lớp `ConcreteDecorator`.
+`Decorator` dùng một đối tượng `Component` (aggregation), đồng thời cũng thừa kế/thực thi `Component`. Lớp `ConcreteComponent` dùng để tạo ra đối tượng gốc, tức đối tượng cần được trang trí. Các đối tượng bọc/trang trí bên ngoài `ConcreteComponent` được tạo ra bằng lớp `ConcreteDecorator`.
 
 ## Mô phỏng quy trình gọi hàm
 
