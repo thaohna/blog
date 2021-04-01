@@ -51,7 +51,7 @@ Tại sao chúng ta cần STOMP? WebSocket chỉ là một giao thức truyền 
 ## MessageBroker
 <hr/><br/>
 
-Là một chương trình trung gian, nó tiếp nhận các tin nhắn được gửi đến trước khi phân phát tới các địa chỉ cần thiết. Vì vậy ta cần nói với **Spring** bật (enable) chương trình này cho nó hoạt động.
+Là một mô-đun trung gian, nó tiếp nhận các tin nhắn được gửi đến trước khi phân phát tới các địa chỉ cần thiết. Vì vậy ta cần nói với **Spring** bật (enable) chương trình này cho nó hoạt động.
 
 Hình dưới đây mô tả cấu trúc của **MessageBroker**:
 <br/>
