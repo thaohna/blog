@@ -3,7 +3,7 @@ layout: post
 title: Ứng dụng Chat đơn giản qua giao thức WebSocket
 description: Ứng dụng Chat đơn giản qua giao thức WebSocket
 tags: java spring project
-permalink: /websocket-chat-application/
+permalink: /chat-application/
 ---
 
 
