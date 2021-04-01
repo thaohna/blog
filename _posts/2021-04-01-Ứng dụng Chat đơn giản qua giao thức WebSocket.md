@@ -29,7 +29,7 @@ Streaming Text Oriented Messaging Protocol - Giao thức truyễn dẫn văn b�
 
 Tại sao chúng ta cần STOMP? WebSocket chỉ là một giao thức truyền thông, nó không xác định những thứ như - Cách gửi thư chỉ cho những người dùng đã đăng ký một chủ đề cụ thể hoặc cách gửi thư đến một người dùng cụ thể. Ta cần STOMP cho các chức năng này.
 
-| **Chức năng**          | ** Mô tả**                                                   |
+| **Chức năng**          | **Mô tả**                                                   |
 | ---------------------- | ------------------------------------------------------------ |
 | Connect                | Đưa ra cách thức làm sao để **client** và **server** có thể kết nối với nhau. |
 | Subscribe              | Đưa ra cách thức để **client** đăng ký (subscribe) nhận tin nhắn của một chủ đề nào đó. |
