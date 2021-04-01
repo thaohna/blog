@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strategy pattern
+title: Strategy pattern okokok
 description: Mẫu thiết kế Strategy pattern
 tags: java design-pattern
 permalink: /strategy-pattern/
