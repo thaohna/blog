@@ -31,15 +31,14 @@ Tại sao chúng ta cần STOMP? WebSocket chỉ là một giao thức truyền 
 
 <br/>
 
-| **Chức năng**          | **Mô tả**                                                   |
-| ---------------------- |:------------------------------------------------------------|
-| ---------------------- | ------------------------------------------------------------ |
-| Connect                | Đưa ra cách thức làm sao để **client** và **server** có thể kết nối với nhau. |
-| Subscribe              | Đưa ra cách thức để **client** đăng ký (subscribe) nhận tin nhắn của một chủ đề nào đó. |
-| Unsubscribe            | Đưa ra cách thức để **client** hủy đăng ký (unsubscribe) nhận tin nhắn của một chủ đề nào đó. |
-| Send                   | Làm sao **client** gửi nhắn gửi tới **server**.              |
-| Message                | Làm sao gửi tin nhắn gửi từ **server** đến **client**.       |
-| Transaction management | Quản lý giao dịch trong quá trình truyền dữ liệu (BEGIN, COMMIT, ROLLBACK,...) |
+| **Chức năng**          | **Mô tả**                                                                       |
+| ---------------------- | --------------------------------------------------------------------------------|
+| Connect                | Đưa ra cách thức làm sao để **client** và **server** có thể kết nối với nhau.   |
+| Subscribe              | Đưa ra cách thức để **client** đăng ký nhận tin nhắn của một chủ đề nào đó.     |
+| Unsubscribe            | Đưa ra cách thức để **client** hủy đăng ký nhận tin nhắn của một chủ đề nào đó. |
+| Send                   | Làm sao **client** gửi nhắn gửi tới **server**.                                 |
+| Message                | Làm sao gửi tin nhắn gửi từ **server** đến **client**.                          |
+| Transaction management | Quản lý giao dịch trong quá trình truyền dữ liệu (BEGIN, COMMIT, ROLLBACK,...)  |
 
 <br/>
 
