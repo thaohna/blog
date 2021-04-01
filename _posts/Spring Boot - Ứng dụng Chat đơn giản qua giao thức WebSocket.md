@@ -1,4 +1,10 @@
-## Spring Boot - Ứng dụng Chat đơn giản qua giao thức WebSocket
+---
+layout: post
+title: Ứng dụng Chat đơn giản qua giao thức WebSocket
+description: Ứng dụng Chat đơn giản qua giao thức WebSocket
+tags: java spring project
+permalink: /chat-application/
+---
 
 ### WebSocket
 
@@ -21,15 +27,18 @@ Tương tự như (http:// và https://) websocket cũng có 2 chuẩn thông th
 Streaming Text Oriented Messaging Protocol - Giao thức truyễn dẫn văn bản thiên về nhắn tin, thuộc nhánh của Websocket, nó là một giao thức văn bản thuần túy, khi client và server liên lạc với nhau theo giao thức này chúng sẽ chỉ gửi cho nhau các dữ liệu dạng tin nhắn văn bản, nó cho phép client giao tiếp với bất kỳ [message broker](https://en.wikipedia.org/wiki/Message_broker) nào hỗ trợ giao thức này. 
 
 Tại sao chúng ta cần STOMP? WebSocket chỉ là một giao thức truyền thông, nó không xác định những thứ như - Cách gửi thư chỉ cho những người dùng đã đăng ký một chủ đề cụ thể hoặc cách gửi thư đến một người dùng cụ thể. Ta cần STOMP cho các chức năng này.
+<br/>
 
-| Chức năng          | Mô tả                                                        |
-| ---------------------- | ------------------------------------------------------------ |
-| Connect                | Đưa ra cách thức làm sao để **client** và **server** có thể kết nối với nhau. |
-| Subscribe              | Đưa ra cách thức để **client** đăng ký (subscribe) nhận tin nhắn của một chủ đề nào đó. |
-| Unsubscribe            | Đưa ra cách thức để **client** hủy đăng ký (unsubscribe) nhận tin nhắn của một chủ đề nào đó. |
-| Send                   | Làm sao **client** gửi nhắn gửi tới **server**.              |
-| Message                | Làm sao gửi tin nhắn gửi từ **server** đến **client**.       |
-| Transaction management | Quản lý giao dịch trong quá trình truyền dữ liệu (BEGIN, COMMIT, ROLLBACK,...) |
+| **Chức năng**          | **Mô tả**                                                                       |
+| ---------------------- | --------------------------------------------------------------------------------|
+| Connect                | Đưa ra cách thức làm sao để **client** và **server** có thể kết nối với nhau.   |
+| Subscribe              | Đưa ra cách thức để **client** đăng ký nhận tin nhắn của một chủ đề nào đó.     |
+| Unsubscribe            | Đưa ra cách thức để **client** hủy đăng ký nhận tin nhắn của một chủ đề nào đó. |
+| Send                   | Làm sao **client** gửi nhắn gửi tới **server**.                                 |
+| Message                | Làm sao gửi tin nhắn gửi từ **server** đến **client**.                          |
+| Transaction management | Quản lý giao dịch trong quá trình truyền dữ liệu (BEGIN, COMMIT, ROLLBACK,...)  |
+
+<br/>
 
 ### MessageBroker
 
